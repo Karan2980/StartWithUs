@@ -1,0 +1,910 @@
+    <br>    
+	<h2>Strategy Consultant:</h2>
+    <div class="c1">
+
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+
+
+    </div>
+    <h2>Management Consultant:</h2>
+    <div class="c1">
+
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+    </div>
+    <h2>Operations Consultant:</h2>
+    <div class="c1">
+
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Kiran More <br>
+            <b>Work Experience :</b> 3 years <br>
+            <b>Satisfied companies :</b> 90%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Genima Singh <br>
+            <b>Work Experience :</b> 4 years <br>
+            <b>Satisfied companies :</b> 97%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+
+
+    </div>
+    <h2>Marketing consultant:</h2>
+    <div class="c1">
+
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+    </div>
+    <h2>Pharma Consultant:</h2>
+    <div class="c1">
+
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Kiran More <br>
+            <b>Work Experience :</b> 3 years <br>
+            <b>Satisfied companies :</b> 90%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Genima Singh <br>
+            <b>Work Experience :</b> 4 years <br>
+            <b>Satisfied companies :</b> 97%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+
+
+    </div>
+    </div>
+    <h2>Financial advisory consultant:</h2>
+    <div class="c1">
+
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+
+
+    </div>
+    <h2>Data consultant:</h2>
+    <div class="c1">
+
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+    </div>
+    <h2>Design/branding consultant:</h2>
+    <div class="c1">
+
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Kiran More <br>
+            <b>Work Experience :</b> 3 years <br>
+            <b>Satisfied companies :</b> 90%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Genima Singh <br>
+            <b>Work Experience :</b> 4 years <br>
+            <b>Satisfied companies :</b> 97%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+
+    </div>
+    <h2>E-commerce Consultant:</h2>
+    <div class="c1">
+
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+
+
+    </div>
+    <h2>Software/IT Consultant:</h2>
+    <div class="c1">
+
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+    </div>
+    <h2>Construction Consultant:</h2>
+    <div class="c1">
+
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Kiran More <br>
+            <b>Work Experience :</b> 3 years <br>
+            <b>Satisfied companies :</b> 90%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Genima Singh <br>
+            <b>Work Experience :</b> 4 years <br>
+            <b>Satisfied companies :</b> 97%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <b>Name :</b> Ishaan Khatar <br>
+            <b>Work Experience :</b> 5 years <br>
+            <b>Satisfied companies :</b> 88%
+        </div>
+    </div>
+    <h2>UI/UX Consultant:</h2>
+    <div class="c1">
+
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+
+
+    </div>
+    <h2>Bussiness Consultant:</h2>
+    <div class="c1">
+
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+        <div>
+            <img src="C:\Users\karan mailaram\OneDrive\Desktop\WBBM mini project\log.jpg" alt="" width="50"
+                height="50"><br><br>
+            <div class="d1">
+                <p><b>Name :</b> Sanjay Chodray </p>
+                <p><b>Work Experience :</b> 4 years </p>
+                <p><b>Satisfied companies :</b> 95% </p>
+            </div>
+        </div>
+    </div>

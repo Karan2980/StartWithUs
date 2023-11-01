@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        
+        .s {
+            margin: 10px;
+            margin-top: 10px;
+            padding: auto;
+        }
+
+        .all {
+            width: 400px;
+            height: 600px;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            text-align: center;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment</title>
+</head>
+
+<body>
+    <form method="post" action="payment.php">
+        <div class="all">
+            <div class="s"><br>
+                <h3>Payment</h3>
+                <label for="Name">Name : </label>
+                <input type="text" name="name" id="name" required value=""><br><br>
+                <label for="email">Email : </label>
+                <input type="text" name="email" id="email" required value=""><br><br>
+                <label for="Number">Amount : </label>
+                <input type="amount" name="amount" id="amount" required value=""><br><br>
+                <label for="transaction_id">Transaction ID : </label>
+                <input type="text" name="transaction_id" id="transaction_id" required value=""><br><br>
+                <p>Scan the below code for payment</p>
+                <img src="" alt="QR code">
+                <p>Or you can pay by number or UPI ID given below</p>
+                Phone : <b>1234567890</b><br>
+                UPI ID : <b>startwithus@upi</b>
+            </div>
+            <div class="input-field">
+                <input type="submit" class="input-submit" value="Payment"><br><br>
+            </div>
+        </div>
+    </form>
+</body>
+
+</html>
+
+
+
